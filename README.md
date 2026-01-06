@@ -8,7 +8,7 @@
 - ⚙️ Skills: JavaScript | Node.js | MongoDB | Docker | HTML | CSS | Python
 - 🧑‍💻 All my projects: [Portfolio]
 - 💬 Ask me about: **Web Security, Face Recognition, Virtual Labs**
-- 📫 How to reach me: [yuvarajy275@gmail.com](mailto:yuvarajy275@gmail.com)
+- 📫 How to reach me: [yuvarajarumugam275@gmail.com](mailto:yuvarajarumugam275@gmail.com)
 
 ---
 
