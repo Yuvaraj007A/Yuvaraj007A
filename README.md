@@ -1,39 +1,67 @@
-# Hi there..👋, I'm Yuvaraj Rekcah  
-**A passionate developer exploring Ethical Hacking & Full Stack Web Development**
+<h1 align="center">Hi there, I'm Yuvaraj Rekcah 👋</h1>
+<h3 align="center">A passionate developer exploring Ethical Hacking & Full Stack Web Development</h3>
 
-![Coding](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
-- 🔭 I’m currently working on **a Student Management System with Face Recognition**
-- 🌱 I’m learning **MERN Stack** and **Ethical Hacking with Termux**
-- ⚙️ Skills: JavaScript | Node.js | MongoDB | Docker | HTML | CSS | Python
-- 🧑‍💻 All my projects: [Portfolio]
-- 💬 Ask me about: **Web Security, Face Recognition, Virtual Labs**
-- 📫 How to reach me: [yuvarajarumugam275@gmail.com](mailto:yuvarajarumugam275@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Ethical+Hacking+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com)](https://linkedin.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com)](https://instagram.com)
+### �‍💻 About Me
+
+- �🔭 I’m currently working on a **Student Management System with Face Recognition**
+- 🌱 I’m currently learning **MERN Stack** and **Ethical Hacking with Termux**
+-  Ask me about **Web Security, Face Recognition, Virtual Labs**
+- 📫 How to reach me: **[yuvarajarumugam275@gmail.com](mailto:yuvarajarumugam275@gmail.com)**
+- 📝 Portfolio: *Coming Soon*
 
 ---
 
-## 🛠 Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+### �️ Languages and Tools
+
+<p align="left">
+  <strong>Frontend:</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <br><br>
+  <strong>Backend & Database:</strong><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br><br>
+  <strong>Tools & Platform:</strong><br>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=react)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvaraj007A&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Yuvaraj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj007A&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
 ---
 
-## 📌 Pinned Projects:
-- [Bro_Recipes](https://bro-recipes.vercel.app/) – *Web App Using JS*
-- [Face Recognition Attendance](https://github.com/YourGitHubUsername/FaceRecognitionAttendance) – *Web App Using JS*
+### 📌 Pinned Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Bro_Recipes** | Web App Using JS | [View Web App](https://bro-recipes.vercel.app/) |
+| **Face Recognition Attendance** | Face Recognition Application | [GitHub Repo](https://github.com/Yuvaraj007A/FaceRecognitionAttendance) |
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/yuvaraj007A">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
