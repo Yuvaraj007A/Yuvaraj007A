@@ -9,7 +9,7 @@
 
 ### �‍💻 About Me
 
-- �🔭 I’m currently working on a **Student Management System with Face Recognition**
+- �🔭 I’m currently working on a **Smart Water Level Monitoring System**
 - 🌱 I’m currently learning **MERN Stack** and **Ethical Hacking with Termux**
 -  Ask me about **Web Security, Face Recognition, Virtual Labs**
 - 📫 How to reach me: **[yuvarajarumugam275@gmail.com](mailto:yuvarajarumugam275@gmail.com)**
@@ -51,7 +51,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | **Bro_Recipes** | Web App Using JS | [View Web App](https://bro-recipes.vercel.app/) |
-| **Face Recognition Attendance** | Face Recognition Application | [GitHub Repo](https://github.com/Yuvaraj007A/FaceRecognitionAttendance) |
+| **Smart-Water-level-monitor** | IoT Web Application | [View Web App](https://water-level-monitor-sandy.vercel.app/) |
 
 ---
 
